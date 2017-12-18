@@ -1,0 +1,22 @@
+{
+    "name": "mosaicman-graybluetheme",
+    "displayName": "MosaicMan GrayBlue",
+    "description": "Dark and subtle gray theme with Twilight syntax coloring.",
+    "version": "0.0.1",
+    "publisher": "MosaicMan",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "MosaicMan GrayBlue",
+                "uiTheme": "vs-dark",
+                "path": "./themes/MosaicMan-GrayBlueTheme-color-theme.json"
+            }
+        ]
+    }
+}
